@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marcianito</string>
+    <string name="main_boton">Entrar</string>
+    <string name="mensaje">Bienvenido</string>
+    <string name="title_activity_final_activity">Final_activity</string>
+    <string name="title_activity_final_">Final_Activity</string>
+    <string name="Texto_Hola">Hola amigos.</string>
+</resources>

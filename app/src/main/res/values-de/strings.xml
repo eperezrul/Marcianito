@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KleineMars</string>
+    <string name="main_boton">Eingeben</string>
+    <string name="mensaje">Willkommen</string>
+    <string name="title_activity_final_activity">Final_activity</string>
+    <string name="title_activity_final_">Final_Activity</string>
+    <string name="Texto_Hola">Hallo Freunde.</string>
+</resources>
